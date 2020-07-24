@@ -1,6 +1,7 @@
 loki:
   fullnameOverride: loki
   enabled: true
+  maxLines: 1000
 
 promtail:
   enabled: true
